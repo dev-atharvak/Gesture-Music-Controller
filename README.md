@@ -49,6 +49,7 @@ pip install opencv-python mediapipe simpleaudio
 Place all your .wav music files inside the **songs** folder.
 
 Example:
+```text
 gesture_music_controller/
 │
 ├── gesture_controller.py
@@ -58,6 +59,9 @@ gesture_music_controller/
     ├── song1.wav
     ├── song2.wav
     └── song3.wav
+```
+
+---
 
 ### How to Run
 
@@ -73,6 +77,8 @@ Hand	Gesture	Action
 
 Press Q on your keyboard anytime to quit.
 
+---
+
 ### Usage Tips
 
 - Use in a well-lit environment (light on your face & hands)
@@ -81,7 +87,10 @@ Press Q on your keyboard anytime to quit.
 - Avoid moving too fast — hold your gesture for 0.5–1 second
 - Only .wav songs are supported (convert .mp3 if needed)
 
+---
+
 ### Folder Structure
+```text
 gesture_music_controller/
 │
 ├── gesture_controller.py
@@ -90,6 +99,9 @@ gesture_music_controller/
 └── songs/
     ├── song1.wav
     └── song2.wav
+```
+
+---
 
 ### What I Learned
 
@@ -105,15 +117,25 @@ Understanding how to combine AI, vision, and creativity in Python
 - Add a small GUI with playlist view
 - Improve gesture stability and speed detection
 
+---
+
 ### License
 
 This project is open-source and free to use for educational and personal learning purposes.
 Feel free to fork and improve it!
 
+---
+
 ## Author
 
 **dev-atharvak (Atharva Kukade)**
-Full Stack Developer | AI & Embedded Systems Enthusiast
-GitHub: devbysour (https://github.com/dev-atharvak)
+Full Stack Developer | AI & Embedded Systems Enthusiast | GitHub: devbysour (https://github.com/dev-atharvak)
+
+## FOUNDER: AkTechh Solution
+### About AkTechh Solution
+
+*AkTechh Solution* is a student-led technology initiative focused on developing innovative software, IoT, embedded systems, automation, and academic engineering projects. Our goal is to create practical, affordable, and real-world technology solutions while helping students learn, build, and showcase engineering projects with modern tools and technologies.
+
+---
 
 "When music meets motion, code becomes art.” 
